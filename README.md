@@ -1,2 +1,3 @@
-# CHECKMATE! (A Chess_Preparation_Bot)
-make a chess bot  , who mimic like top 50 chess players
+# CHECKMATE! (A Chess Preparation Bot)
+**Projecct Description:**
+Create a bot which can emulate gameplay strategies of top 50 chess players worldwide.
